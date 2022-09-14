@@ -1,8 +1,8 @@
 package kata1;
 
-import java.util.Calendar;
+import java.util.Calendar;  
 import java.util.Date;
-import java.util.GregorianCalendar;
+import java.util.GregorianCalendar; 
 
 public class Kata1 {
 
